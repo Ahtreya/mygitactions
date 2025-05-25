@@ -1,4 +1,4 @@
-name: Log ISS Location Data Daily
+name: Run main.py
 
 on:
   schedule:
